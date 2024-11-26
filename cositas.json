@@ -1,0 +1,181 @@
+{
+  "usuarios": [
+    {
+      "id": "1732388353355",
+      "username": "Ahora Sim",
+      "password": "Porfiii.123",
+      "email": "siiii@gmail.com",
+      "rut": "777777-27",
+      "isactive": true,
+      "justificaciones": [
+        {
+          "idJustificacion": 1732398648592,
+          "idUsuario": "1732388353355",
+          "idProfesor": "1732321688942",
+          "asignatura": {
+            "idAsignatura": "2",
+            "nombre": "Desarrollo Web",
+            "fecha": "2024-11-22T03:25:59.475Z",
+            "profesor": "usuario1",
+            "qrData": "Desarrollo Web Pauli<3 usuario2@mail.cl 12345678"
+          },
+          "fecha": "2024-11-08T18:50:00",
+          "motivo": "AAAAAAAAAAAAAAA",
+          "comentarioDocente": ""
+        }
+      ],
+      "clasesRegistradas": [
+        {
+          "idAsignatura": "2",
+          "nombre": "Desarrollo Web",
+          "fecha": "2024-11-22T03:25:59.475Z",
+          "profesor": "usuario1",
+          "qrData": "Desarrollo Web usuario1 siiii@gmail.com 777777-27"
+        }
+      ]
+    }
+  ],
+  "profes": [
+    {
+      "id": "1",
+      "username": "usuario1",
+      "password": "duoc1234",
+      "email": "usuario1@mail.cl",
+      "rut": "98.765.432-1",
+      "isactive": true,
+      "fotitoUrl": "",
+      "perfil": {
+        "titulo": "Profesor de Arquitectura",
+        "descripcion": "Especialista en estructuras y análisis de requisitos.",
+        "foto": "url_foto"
+      },
+      "justificaciones": [
+        {
+          "idJustificacion": 1732223427743,
+          "idUsuario": "2",
+          "idProfesor": "1",
+          "asignatura": "Arquitectura",
+          "fecha": "2024-11-21T21:10:27.743Z",
+          "motivo": "toi comiendo completos",
+          "comentarioDocente": "ajam"
+        }
+      ],
+      "asignaturas": [
+        {
+          "id": "1",
+          "nombre": "Arquitectura",
+          "seccion": "A",
+          "descripcion": "Estudio de la estructura y funcionamiento de los requisitos."
+        }
+      ]
+    },
+    {
+      "id": "1732321688942",
+      "username": "ncjskdncks",
+      "email": "ifnsdkvdf@gmail.com",
+      "password": "cdilvndfd1",
+      "rut": "1223333-1",
+      "isactive": true,
+      "fotitoUrl": "Calidad de Software",
+      "perfil": {
+        "titulo": "Calidad de Software",
+        "descripcion": "fmewlinvfsldfnjk",
+        "foto": "Calidad de Software"
+      },
+      "justificaciones": [
+        {
+          "idJustificacion": 1732398648592,
+          "idUsuario": "1732388353355",
+          "idProfesor": "1732321688942",
+          "asignatura": {
+            "idAsignatura": "2",
+            "nombre": "Desarrollo Web",
+            "fecha": "2024-11-22T03:25:59.475Z",
+            "profesor": "usuario1",
+            "qrData": "Desarrollo Web Pauli<3 usuario2@mail.cl 12345678"
+          },
+          "fecha": "2024-11-08T18:50:00",
+          "motivo": "AAAAAAAAAAAAAAA",
+          "comentarioDocente": ""
+        }
+      ],
+      "asignaturas": [
+        {
+          "id": "1732321688942",
+          "nombre": "Calidad de Software",
+          "seccion": "B",
+          "descripcion": ""
+        }
+      ]
+    },
+    {
+      "id": "1732324839306",
+      "username": "waaaaaaa",
+      "email": "waaa@gmail.com",
+      "password": "waaaaaaaaaaa",
+      "rut": "5212345-3",
+      "isactive": true,
+      "fotitoUrl": "Waaa",
+      "perfil": {
+        "titulo": "Profe de Matemática",
+        "descripcion": "",
+        "foto": "Waaa"
+      },
+      "justificaciones": [],
+      "asignaturas": [
+        {
+          "id": "1732324839306",
+          "nombre": "Matemática",
+          "seccion": "C",
+          "descripcion": ""
+        }
+      ]
+    },
+    {
+      "id": "1732502786911",
+      "username": "Pablor",
+      "email": "",
+      "password": "nutella12",
+      "rut": "107654556",
+      "isactive": true,
+      "fotitoUrl": "",
+      "perfil": {
+        "titulo": "Pablorprofe",
+        "descripcion": "12456263",
+        "foto": ""
+      },
+      "justificaciones": [],
+      "asignaturas": [
+        {
+          "id": "1732502786911",
+          "nombre": "Programas",
+          "seccion": "00912",
+          "descripcion": "aaaaaaaaaa"
+        }
+      ]
+    },
+    {
+      "id": "1732502786913",
+      "username": "Pablor",
+      "email": "",
+      "password": "nutella12",
+      "rut": "107654556",
+      "isactive": true,
+      "fotitoUrl": "",
+      "perfil": {
+        "titulo": "Pablorprofe",
+        "descripcion": "12456263",
+        "foto": ""
+      },
+      "justificaciones": [],
+      "asignaturas": [
+        {
+          "id": "1732502786913",
+          "nombre": "Programas",
+          "seccion": "00912",
+          "descripcion": "aaaaaaaaaa"
+        }
+      ]
+    }
+  ]
+}
